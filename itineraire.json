@@ -1,0 +1,205 @@
+{
+  "pays": "Slovaquie",
+  "drapeau": "🇸🇰",
+  "symbole": "⛰️",
+  "titre": "Slovaquie: Échappée au Cœur des Carpates et de l'Histoire",
+  "budget_total": "1050€",
+  "duree": "5 jours",
+  "temps_vol": "6h depuis Georges, France avec escale",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Premiers Pas à Bratislava",
+      "legende": "Après votre vol, posez vos valises dans la charmante capitale slovaque. Le premier jour est dédié à une immersion douce dans l'atmosphère de la ville. Flânez dans les ruelles pavées de la Vieille Ville, imprégnez-vous de son histoire et laissez-vous séduire par l'élégance de ses bâtiments baroques. Une balade tranquille est idéale pour commencer votre aventure.",
+      "lieu": "Bratislava",
+      "activites": [
+        "🛬 <strong>Arrivée à Bratislava</strong>: Atterrissez à l'aéroport de Bratislava (BTS) ou de Vienne (VIE) puis rejoignez la capitale slovaque en bus. Installez-vous confortablement dans votre hôtel 3 étoiles.",
+        "🚶‍♂️ <strong>Balade dans la Vieille Ville</strong>: Découvrez le cœur historique de Bratislava, ses places animées et ses statues insolites. C'est l'occasion parfaite pour une première prise de contact avec l'ambiance locale."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Si vous atterrissez à Vienne (VIE), des bus directs relient l'aéroport à la gare routière de Bratislava en environ 1 heure. C'est souvent l'option la plus pratique."
+        },
+        {
+          "symbole": "🛏️",
+          "titre": "Hébergement",
+          "texte": "Les hôtels 3 étoiles à Bratislava offrent un excellent rapport qualité-prix, souvent situés à proximité du centre historique."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏰",
+      "titre": "Châteaux, Vues Panoramiques et Saveurs Locales",
+      "legende": "Plongez au cœur de l'histoire de Bratislava en explorant son emblématique château, offrant des vues imprenables sur le Danube. L'après-midi sera consacrée à la découverte des trésors cachés de la ville, entre églises baroques et palais élégants. Terminez la journée en savourant la cuisine slovaque dans un restaurant traditionnel.",
+      "lieu": "Bratislava",
+      "activites": [
+        "🏰 <strong>Visite du Château de Bratislava</strong>: Explorez ce monument emblématique qui domine la ville et le Danube. Ses jardins baroques et ses expositions historiques valent le détour.",
+        "⛪ <strong>Découverte de la Cathédrale Saint-Martin</strong>: Admirez cette magnifique cathédrale gothique, lieu de couronnement de nombreux rois de Hongrie. Son architecture et son histoire sont fascinantes.",
+        "🍽️ <strong>Dégustation de spécialités slovaques</strong>: Savourez un \"Bryndzové Halušky\" (gnocchi de pommes de terre au fromage de brebis) ou un \"Kapustnica\" (soupe de choucroute) dans un restaurant typique."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Conseil de marche",
+          "texte": "Le Château de Bratislava est accessible à pied depuis la Vieille Ville, mais la montée est un peu raide. Prévoyez de bonnes chaussures."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Point de vue",
+          "texte": "Depuis le château, vous aurez une vue spectaculaire sur la ville, le Danube et même l'Autriche par temps clair."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏞️",
+      "titre": "Forteresse Médiévale et Vignobles des Petites Carpates",
+      "legende": "Échappez à l'agitation urbaine pour une journée d'exploration entre nature et histoire. Visitez les ruines majestueuses du Château de Devín, niché au confluent du Danube et de la Morava. L'après-midi, partez à la découverte des charmants villages viticoles des Petites Carpates, réputés pour leurs vins locaux.",
+      "lieu": "Devín / Petites Carpates",
+      "activites": [
+        "⛰️ <strong>Exploration du Château de Devín</strong>: Découvrez les vestiges de cette forteresse historique, témoin de l'histoire slovaque depuis l'Antiquité. Le site offre des panoramas grandioses sur les fleuves.",
+        "🍇 <strong>Route des Vins des Petites Carpates</strong>: Parcourez cette région viticole pittoresque, visitez un vignoble local et participez à une dégustation. Les vins blancs y sont particulièrement appréciés."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚌",
+          "titre": "Transport",
+          "texte": "Des bus publics relient Bratislava au Château de Devín (environ 30 min). Pour la Route des Vins, une voiture de location ou une excursion organisée est recommandée."
+        },
+        {
+          "symbole": "🍷",
+          "titre": "Dégustation",
+          "texte": "Ne manquez pas de goûter le \"Frankovka Modrá\", un vin rouge local, ou les vins blancs aromatiques de la région."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🎨",
+      "titre": "Art Nouveau, Danube et Détente Urbaine",
+      "legende": "Cette journée vous invite à explorer les facettes artistiques et architecturales de Bratislava, avec un focus sur des joyaux comme l'Église Bleue. Profitez d'une croisière relaxante sur le Danube pour admirer la ville sous un autre angle. Terminez la journée par une pause gourmande ou une promenade le long des quais.",
+      "lieu": "Bratislava",
+      "activites": [
+        "⛪ <strong>Visite de l'Église Sainte-Élisabeth (Église Bleue)</strong>: Admirez cette église Art Nouveau unique, célèbre pour sa couleur bleu pastel et ses mosaïques. C'est un véritable chef-d'œuvre architectural.",
+        "🚢 <strong>Croisière sur le Danube</strong>: Embarquez pour une croisière paisible sur le Danube, offrant des vues différentes sur le Château de Bratislava, le Parlement et les ponts de la ville. C'est une manière relaxante de découvrir le paysage urbain.",
+        "🖼️ <strong>Musée d'Art Moderne Danubiana Meulensteen</strong>: Situé sur une presqu'île du Danube, ce musée offre une collection impressionnante d'art contemporain dans un cadre exceptionnel. L'accès se fait souvent par bateau ou bus."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎟️",
+          "titre": "Billets",
+          "texte": "Pensez à réserver votre croisière sur le Danube à l'avance, surtout en haute saison."
+        },
+        {
+          "symbole": "🚶‍♂️",
+          "titre": "Promenade",
+          "texte": "Le long des rives du Danube, de nombreux cafés et parcs invitent à la détente et à l'observation."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🛫",
+      "titre": "Souvenirs et Départ de Bratislava",
+      "legende": "Profitez de vos dernières heures à Bratislava pour quelques achats de souvenirs ou une dernière promenade dans les quartiers que vous avez appréciés. Savourez un dernier café slovaque avant de vous diriger vers l'aéroport. C'est le moment de faire le plein de beaux souvenirs avant de reprendre le chemin du retour.",
+      "lieu": "Bratislava",
+      "activites": [
+        "🛍️ <strong>Achats de souvenirs</strong>: Flânez dans les boutiques de la Vieille Ville pour trouver des produits artisanaux, de la céramique ou des spécialités locales à rapporter.",
+        "☕ <strong>Dernier café slovaque</strong>: Profitez de l'ambiance d'un café local pour un dernier moment de détente. Les cafés de Bratislava sont réputés pour leur atmosphère chaleureuse.",
+        "🛫 <strong>Départ de Bratislava</strong>: Rejoignez l'aéroport pour votre vol retour, la tête remplie de merveilleux souvenirs de votre séjour en Slovaquie."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Idées cadeaux",
+          "texte": "Pensez aux produits à base de \"bryndza\" (fromage de brebis), aux liqueurs locales comme le \"Slivovica\" ou aux objets en bois sculpté."
+        },
+        {
+          "symbole": "⏰",
+          "titre": "Timing",
+          "texte": "Prévoyez suffisamment de temps pour le trajet vers l'aéroport et les formalités d'embarquement."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "280€/pers (vol A/R Georges, France - Bratislava/Vienne avec escale)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "85€/pers (transports locaux et excursion Devín/Petites Carpates)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "250€/pers (5 jours, repas dans des restaurants de gamme moyenne)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "300€/pers (4 nuits en hôtel 3 étoiles)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "80€/pers (entrées musées, châteaux, dégustation de vin, croisière)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de mai à septembre.",
+      "symbole": "🍁"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La Slovaquie compte environ 5,4 millions d'habitants. Les Slovaques sont connus pour leur hospitalité et leur attachement aux traditions.",
+      "symbole": "👥"
+    },
+    {
+      "titre": "La Slovaquie est un pays d'Europe centrale, membre de l'Union Européenne et de la zone Euro. Sa capitale est Bratislava.",
+      "symbole": "🇪🇺"
+    },
+    {
+      "titre": "Bratislava est la seule capitale au monde à être frontalière avec deux autres pays (Autriche et Hongrie). Le pays est aussi réputé pour ses nombreuses grottes et ses châteaux médiévaux.",
+      "symbole": "🗺️"
+    },
+    {
+      "titre": "La langue officielle est le slovaque. L'anglais est généralement parlé dans les zones touristiques.",
+      "symbole": "🗣️"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Infos officielles et inspirations",
+      "titre": "Tourisme Slovaquie",
+      "url": "https://slovakia.travel/fr",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Horaires des transports à Bratislava",
+      "titre": "Transports Publics Bratislava",
+      "url": "https://imhd.sk/ba/public-transport",
+      "symbole": "🚆"
+    },
+    {
+      "legende": "Prévisions météo",
+      "titre": "Météo Slovaquie",
+      "url": "https://www.shmu.sk/en/?page=1",
+      "symbole": "🌤️"
+    }
+  ]
+}
